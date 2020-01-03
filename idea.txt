@@ -1,0 +1,5 @@
+Every Letter will try to approach the mouse pointer using coordinates.
+and thry will be limited to a box.
+
+javascript and skills in a moving festival ring
+bubbles at background
